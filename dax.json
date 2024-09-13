@@ -1,40 +1,41 @@
-{  
-  "Beschreibung":"Der DAX ist der bedeutendste deutsche Aktienindex. Er misst aktuell die Wertentwicklung der 40 größten und liquidesten Unternehmen des deutschen Aktienmarktes und repräsentiert rund 80 Prozent der Marktkapitalisierung börsennotierter Aktiengesellschaften in Deutschland"
-  "DAX_Values": [
+{
+  "Beschreibung":"Der DAX ist der bedeutendste deutsche Aktienindex. Er misst aktuell die Wertentwicklung der 40 größten und liquidesten Unternehmen des deutschen Aktienmarktes und repräsentiert rund 80 Prozent der Marktkapitalisierung börsennotierter Aktiengesellschaften in Deutschland",
+  "DAXValues": [
     {
-      "year": 2014,
+      "year": "2014-12-31",
       "value": 9800.03
     },
     {
-      "year": 2015,
+      "year": "2015-12-31",
       "value": 10743.01
     },
     {
-      "year": 2016,
+      "year": "2016-12-31",
       "value": 11481.06
     },
     {
-      "year": 2017,
+      "year": "2017-12-31",
       "value": 12917.64
     },
     {
-      "year": 2018,
+      "year": "2018-12-31",
       "value": 10858.68
     },
     {
-      "year": 2019,
+      "year": "2019-12-31",
       "value": 13249.01
     },
     {
-      "year": 2020,
+      "year": "2020-12-31",
       "value": 13718.78
     },
     {
-      "year": 2021,
+      "year": "2021-12-31",
       "value": 15835.09
     },
     {
-      "year": 2022,
-      value: 13923.59
-    }  
+      "year": "2022-12-31",
+      "value": 13923.59
+    }
+  ]
 }
