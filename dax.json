@@ -2,6 +2,10 @@
   "Beschreibung":"Der DAX ist der bedeutendste deutsche Aktienindex. Er misst aktuell die Wertentwicklung der 40 größten und liquidesten Unternehmen des deutschen Aktienmarktes und repräsentiert rund 80 Prozent der Marktkapitalisierung börsennotierter Aktiengesellschaften in Deutschland"
   "DAX_Values": [
     {
+      "year": 2012,
+      "value": 7612.39
+    },
+    {
       "year": 2014,
       "value": 9800.03
     },
